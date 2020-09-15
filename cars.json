@@ -1,0 +1,19 @@
+{
+  "cars": [
+    {
+      "brand": "bmw",
+      "model": "M5",
+      "price": 51000
+    },
+    {
+      "brand": "mazda",
+      "model": "M3",
+      "price": 47000
+    },
+    {
+      "brand": "volvo",
+      "model": "V90",
+      "price": 61000
+    }
+  ]
+}
